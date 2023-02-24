@@ -36,3 +36,23 @@ a { color:blue; text-decoration: none;}
 figure {
     text-align: center;
 }
+ul {
+    display: block;
+    list-style-type: disc;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #000000;
+}
+tr, td {
+    border: 1px solid #000000;
+    
+
+}
+th {
+    border: 1px solid #000000;
+    background-color: #eaecf0;
+    text-align: center;
+}
